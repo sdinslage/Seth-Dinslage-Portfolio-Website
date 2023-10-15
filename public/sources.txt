@@ -1,0 +1,1 @@
+For the css structuring, I used a template for a job portal that I am using in another class. The template is from the YouTube video https://www.youtube.com/watch?v=q6ZinjQ6tEk (How To Make A Responsive Job Portal Website Design Using HTML/CSS/JS From Scratch by Mr. Web Designer).
